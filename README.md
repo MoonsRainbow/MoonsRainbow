@@ -7,7 +7,8 @@
 
 <br>
 <h4><p>✏ 블로그는 이쪽이에요.</p></h4>
-<p><a href='https://moons-rainbow.tistory.com/'>MoonsRainbow 티스토리 블로그.</a></p>
+
+[MoonsRainbow's Blog](https://moons-rainbow.tistory.com/)
 
 <br><br>
 
